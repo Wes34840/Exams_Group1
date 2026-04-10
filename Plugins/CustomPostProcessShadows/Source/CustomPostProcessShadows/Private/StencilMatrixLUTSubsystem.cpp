@@ -70,7 +70,6 @@ void UStencilMatrixLUTSubsystem::EnsureTextureCreated()
 		UE_LOG(LogTemp, Warning, TEXT("Created Matrix LUT texture: %s"), *MatrixLUTTexture->GetName());
 	}
 
-	MatrixLUTTexture->MipGenSettings = TMGS_NoMipmaps;
 	MatrixLUTTexture->AddressX = TA_Clamp;
 	MatrixLUTTexture->AddressY = TA_Clamp;
 	MatrixLUTTexture->Filter = TF_Nearest; // important: no interpolation between IDs
