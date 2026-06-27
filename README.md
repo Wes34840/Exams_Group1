@@ -1,6 +1,7 @@
 # Exams_Group1
 
-https://github.com/user-attachments/assets/d23c733d-22dd-480c-8404-478259890b25
+https://github.com/user-attachments/assets/1eaee64d-72f2-4f60-a1c5-71d126e1663d
+
 Higher quality [YouTube video](https://youtu.be/LBEYNLP2r4Q)
 
 
