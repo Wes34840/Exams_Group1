@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/1eaee64d-72f2-4f60-a1c5-71d126e1663d
 
-Higher quality [YouTube video](https://youtu.be/LBEYNLP2r4Q)
+Higher quality [YouTube video](https://www.youtube.com/watch?v=dXjea04fT_0)
 
 
 ## Wiki
